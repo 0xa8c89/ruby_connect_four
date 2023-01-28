@@ -1,1 +1,1 @@
-require_relative '../lib/connect_four'
+require_relative '../lib/main'
